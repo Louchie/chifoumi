@@ -1,0 +1,100 @@
+{
+  "notifications": [
+    {
+      "title": "test",
+      "date": "2023-03-01",
+      "id": 1
+    },
+    {
+      "title": "qsQDSFGFHH",
+      "date": "2023-03-18",
+      "id": 3
+    },
+    {
+      "title": "qsdfgh",
+      "date": "2023-03-16",
+      "id": 5
+    },
+    {
+      "title": "test connected",
+      "date": "2023-03-15",
+      "userId": "",
+      "id": 6
+    },
+    {
+      "title": "test connected 2",
+      "date": "2023-03-15",
+      "userId": "3",
+      "id": 7
+    },
+    {
+      "title": "ddddaa",
+      "date": "2222-12-23",
+      "userId": "5",
+      "id": 8
+    },
+    {
+      "title": "ddddaadedzed",
+      "date": "2222-12-30",
+      "userId": "5",
+      "id": 9
+    },
+    {
+      "title": "ddqdqd",
+      "date": "22222-12-21",
+      "userId": "5",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "name": "Oliver Mail",
+      "surname": "Dem",
+      "password": "$2a$10$MRB23gC9aXRm3i9rnVGZS.wJ20gyuFZlTaBfbQjq7zz/rimBQ6sCq",
+      "id": 1
+    },
+    {
+      "email": "olivier2@mail.com",
+      "password": "$2a$10$cfUjBE3xNaK.yDUc1XJmduVCM8SxWd5UeJ5yAwaXEjKtO1VTQpGWO",
+      "name": "Olivier",
+      "surname": "Deme",
+      "id": 2
+    },
+    {
+      "email": "karl@test.com",
+      "password": "$2a$10$FqHgHPGkycKkatv/CTf2AOI2IviqQBJLGEh4leC00zT7wQX57W1lG",
+      "surname": "karl",
+      "name": "karl",
+      "id": 3
+    },
+    {
+      "email": "lucie@gmail.com",
+      "password": "$2a$10$9QnScLwYYAjy33ngSpQsp.NdYzRwdbgOOZmPfYpDTE6Vhk7/N44PW",
+      "surname": "lucie",
+      "name": "yu",
+      "id": 4
+    },
+    {
+      "email": "luc@gmail.com",
+      "password": "$2a$10$qweJWv63fxDcet/LilT2XenkbK.1NC.31Ypyli8H6.J3cvewQH7vm",
+      "surname": "YU",
+      "name": "Lucie",
+      "id": 5
+    },
+    {
+      "email": "l_yu8@etu-webschoolfactory.fr",
+      "password": "$2a$10$Qgk2JpEoU8vJIUsS6EKtpeu/Jb4bXu3zZWJjxgLJc.8eNOE5xoBCe",
+      "surname": "YU",
+      "name": "Lucie",
+      "id": 6
+    },
+    {
+      "email": "yu@gmail.com",
+      "password": "$2a$10$/orji8eOOy.BCJtZGrrvVe52lHQewHTEbBpA40nNsUqxwGpFg3mPO",
+      "surname": "YU",
+      "name": "Lucie",
+      "id": 7
+    }
+  ]
+}
